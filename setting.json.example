@@ -1,0 +1,17 @@
+{
+  "db": {
+    "insurance_db_query_connection": "",
+    "insurance_db_command_connection": ""
+  },
+  "seeder": {
+    "admin_user_id": 1,
+    "admin_seeder_username": "admin",
+    "admin_seeder_password": "change_me",
+    "admin_seeder_role_name": "master",
+    "admin_seeder_national_code": ""
+  }, 
+  "jwt": {
+    "secret": "",
+    "token_expire_minutes": 480
+  }
+}
