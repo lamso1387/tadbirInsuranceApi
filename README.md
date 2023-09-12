@@ -2,7 +2,7 @@
 
 cp .env.example .env
 
-cp setting.json.exaample setting.json
+cp setting.json.example setting.json
 
 docker compose config
 
