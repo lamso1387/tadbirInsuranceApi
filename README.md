@@ -10,6 +10,6 @@ docker compose up -d
 
 docker ps
 
-call api: /api/InsurancePolicy/add
+POST /api/InsurancePolicy/add
 
  
